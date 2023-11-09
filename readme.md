@@ -26,7 +26,7 @@ Kullanıcıların çeşitli kitapları görüntüleyebileceği, kitap detayları
 ## Ekran Görüntüleri
 - Ana Ekran
 
-  <img src=./src/1.png>)
+  <img src=./src/1.png>
   
 - Kitap Detayları
   
