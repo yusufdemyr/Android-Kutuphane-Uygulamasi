@@ -30,4 +30,4 @@ Kullanıcıların çeşitli kitapları görüntüleyebileceği, kitap detayları
   
 - Kitap Detayları
   
-    <img src=./src/2.png>)
+    <img src=./src/2.png>
